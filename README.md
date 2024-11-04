@@ -14,6 +14,7 @@ Here are some of the technologies and tools I work with:
 ### Programming Languages: 
 
 - C
+- C++
 - Python
 
 ### Tools:
@@ -21,6 +22,7 @@ Here are some of the technologies and tools I work with:
 - Git
 - Github
 - Visual Studio Code
+- Vim
 
 <!---
 cmoerl/cmoerl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
